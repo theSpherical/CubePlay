@@ -8,4 +8,4 @@ v0.3.5-alpha description
 ## v0.3.5-alpha
 v0.3.5-alpha log
 
-*Made files are: Makefile,*
+*Made files are: Makefile, Build.bat, Build.sh, CUBEPLAYLOG.md,*
