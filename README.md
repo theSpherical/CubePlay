@@ -1,2 +1,5 @@
 # CubePlay
-CubePlay is a new Nintendo GameCube emulator for Wii homebrew/hacked consoles.
+## WARNING!
+*Please read the following information.*  **WE BRING NO WARRANTY OF DAMAGE TO YOUR WII CONSOLE, NEVER EXPRESSED OR IMPLIED. PLEASE ONLY DOWNLOAD IF YOU KNOW WHAT YOU ARE DOING. THANK YOU**
+
+
